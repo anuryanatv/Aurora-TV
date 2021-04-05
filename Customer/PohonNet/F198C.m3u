@@ -24,6 +24,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20CNN%20Indonesia.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Indosiar.png",Indosiar
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69102a6ed6587b5b8cb4ebbe972864690b
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Kompas.png",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
