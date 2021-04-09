@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/logos.png",Pengumuman
-https://github.com/anuryanatv/server-maintenance/blob/main/server%20maintenance%202.mp4?raw=true
+https://github.com/anuryanatv/server-maintenance/blob/main/Brosur.mp4?raw=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png",ANTV
 http://210.210.155.35/session/0f9e2aba-c5ea-11e8-a5d9-c81f66f89318/qwr9ew/s/s07/01.m3u8
