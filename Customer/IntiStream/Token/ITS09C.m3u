@@ -43,7 +43,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HGTV.png",HGTV
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-history
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-hgtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20K%2B.png",K+
 http://rr.dens.tv/h/h08/index2.m3u8
