@@ -39,11 +39,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX%20Sport%20News.png",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HBO%20Signature.png",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HBO.png",HBO
+https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HGTV.png",HGTV
-https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-hgtv
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-history
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20K%2B.png",K+
 http://rr.dens.tv/h/h08/index2.m3u8
@@ -51,7 +51,7 @@ http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20My%20Cinema.png",My Cinema
 http://rr.dens.tv/h/h90/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20My%20Cinema.png",MTV Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20MTV%20Live.png",MTV Live
 https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-mtvlive
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20NHK%20World%20Japan.png",NHK World Japan
