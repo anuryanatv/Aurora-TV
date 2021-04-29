@@ -33,12 +33,6 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX.png",FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX%20Life.png",FOX Life
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX%20Crime.png",FOX Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX%20Sports.png",FOX Sports
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
@@ -48,11 +42,17 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HBO%20Signature.png",HBO Signature
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HGTV.png",HGTV
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-history
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20K%2B.png",K+
 http://rr.dens.tv/h/h08/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20My%20Cinema.png",My Cinema
 http://rr.dens.tv/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20MTV%20Live.png",MTV Live
+https://home-tv.web.id/kicau/pilatkau.m3u8?channel=usee-mtvlive
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20NHK%20World%20Japan.png",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -62,6 +62,3 @@ http://45.126.83.51/uq2663/h/h19/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Sony%20One.png",Sony One
 http://210.210.155.35/session/a5d39872-3130-11eb-a769-b82a72d63267/uq2663/h/h143/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVN.png",TVN
-https://github.com/anuryanatv/server-maintenance/blob/main/gangguan%20channel.mp4?raw=true
