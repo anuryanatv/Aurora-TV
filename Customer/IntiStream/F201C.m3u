@@ -46,7 +46,7 @@ http://210.210.155.35:80/session/09d8ec3e-2ed7-11eb-a7c0-c81f66f89318/qwr9ew/s/s
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20RCTI.png",RCTI
-https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_665_480p/index.m3u8?hmac=fc4ac1cc9afab9261e4f24a6d2b6c819b8341f687aa9dcfea381d362cd7db462
+https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20SCTV.png",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
