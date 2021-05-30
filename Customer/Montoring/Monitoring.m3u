@@ -111,6 +111,9 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX%20Movies.png",FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX%20Action%20Movies.png",FOX Action Movies
+http://103.58.160.156:8278/01FOXACTIONMOVIES/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20FOX.png",FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
