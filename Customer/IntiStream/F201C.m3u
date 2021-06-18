@@ -4,7 +4,7 @@
 https://github.com/anuryanatv/server-maintenance/blob/main/Brosur.mp4?raw=true
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png",ANTV
-http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160572?play_token=W4FiIcljhb&token=ShdcBRFREglDAQZWA1EIUgYFAVoLWwIHA1FdVgVWDVZVDANQVQxVUFJGHxERR0tSUF5mClwbCQZQVQwCBU4bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEGAgQYRhJQVBFbRgAHUwcMFR0RXBtMXEFZBwlmUVIUUFNUFw4KF1VcH0MLXWwGVlRWX1cbWRoIERtEDEpFFVhXRV1ZGEYAUERBABBWEVgRCAUAAhtPGlpcQggRS0wVWBt5dRcYRgdBRFYPF1pcDBEDFUVAG08aUEBoFABKQUUHWF1URxZeQAkSH0MJUks9UFZZX1ZaF1FWXUREXxsEFU4bXV5bXRANS29DCAARCUAHCAQAEUQ=
+http://chostv.mobie.in/files/iptv/antv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Berita%20Satu.png",Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
@@ -25,7 +25,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Global%20TV.png",Global TV
-https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Indosiar.png",Indosiar
 http://210.210.155.35:80/qwr9ew/s/s04/02.m3u8
@@ -55,10 +55,10 @@ http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Trans%20TV.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TV%20One.png",TV One
-http://85.203.33.29:25461/9ry2X6qpPc/opPSyaPL1C/160668?play_token=aH9dft2lFi&token=ShdcBRFREglDUFdQWlVcVgQFXVYJCQFRXlxcDAJSCwRVA1ZWBwhSVVFGHxERR0tSUF5mClwbCQZQVQ8DD04bRUJQRjsLXRIJQ1ALAlQHARUdEU0KVVwRDVdTCwQGUAEIAg0YRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHcHEVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg==
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVRI%20Sport.png",TVRI Sport
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
