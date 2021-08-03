@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/logos.png",Promo Dari Kami
 https://github.com/anuryanatv/server-maintenance/blob/main/Brosur.mp4?raw=true
 
+#EXTINF:-1 tvg-logo="https://www.thestatesman.com/wp-content/uploads/2019/11/tokyo-2020-summer-olympics-logo-vector.png",Olympic Japan 2021
+http://185.224.216.1:8081/doofootball_r9/channel16/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
