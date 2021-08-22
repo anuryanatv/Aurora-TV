@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/logos.png",Promo Dari Kami
 https://github.com/anuryanatv/server-maintenance/blob/main/Brosur.mp4?raw=true
 
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
