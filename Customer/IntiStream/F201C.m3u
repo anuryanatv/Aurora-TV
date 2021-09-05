@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/logos.png",Promo Dari Kami
-https://github.com/anuryanatv/server-maintenance/blob/main/Brosur.mp4?raw=true
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20ANTV.png",ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 
@@ -51,6 +48,9 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20RCTI.png",RCTI
 http://gpc.my.id/vidio/rcti.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Rodja%20TV.png",Rodja TV
+http://210.210.155.35:80/session/c8a56596-2ed9-11eb-a769-b82a72d63267/qwr9ew/s/s14/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20SCTV.png",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/02.m3u8
 
@@ -68,12 +68,3 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVRI.png",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVN.png",TVN
-http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20National%20Geograpic.png",Nat Geo
-http://sindoro.axc.my.id:25461/live/oxygen/VU5ZBKiIBr/7.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20National%20Geograpic.png",Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
