@@ -119,3 +119,51 @@ http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20TVN.png",TVN
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-logo="",Kix
+http://rr1.dens.tv/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",Champions TV 1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+
+#EXTINF:-1 tvg-logo="",Champions TV 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+
+#EXTINF:-1 tvg-logo="",Champions TV 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+
+#EXTINF:-1 tvg-logo="",DW TV
+http://210.210.155.35/session/da5339aa-1f82-11eb-b5b0-9a5685350a12/qwr9ew/s/s26/index.m3u8
+
+#EXTINF:-1 tvg-logo="",M20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="",CNA
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+
+#EXTINF:-1 tvg-logo="",NHK World Japan
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+
+#EXTINF:-1 tvg-logo="",Aljazeera
+http://210.210.155.35/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 tvg-logo="",TRT World
+http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="",CGTN Docu
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="",My Kidz
+http://210.210.155.66/h/h98/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-logo="",Blue Ant Entertaiment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="",Celestial Movies
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
