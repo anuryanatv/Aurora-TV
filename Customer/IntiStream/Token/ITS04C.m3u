@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",Animal Planet
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20Animax.png",Animax
 http://210.210.155.35/dr9445/h/h144/index.m3u8
 
@@ -12,6 +15,15 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20AXN.png",AXN
 http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
 
+#EXTINF:-1 tvg-logo="",Champions TV 1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+
+#EXTINF:-1 tvg-logo="",Champions TV 2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+
+#EXTINF:-1 tvg-logo="",Champions TV 3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20CNA.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
@@ -22,7 +34,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HBO.png",HBO
-https://gratismkctv.net/film/hbo.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20K%2B.png",K+
 http://rr.dens.tv/h/h08/index2.m3u8
