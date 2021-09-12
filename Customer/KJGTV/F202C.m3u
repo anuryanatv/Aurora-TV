@@ -111,9 +111,6 @@ http://rr.dens.tv/h/h08/index2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20My%20Cinema.png",My Cinema
 http://rr.dens.tv/h/h90/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20National%20Geograpic.png",Nat Geo Wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20NHK%20World%20Japan.png",NHK World Japan
 http://45.126.83.51/uq2663/h/h23/index2.m3u8
 
