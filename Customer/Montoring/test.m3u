@@ -100,7 +100,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20HBO.png",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/anuryanatv/Aurora-TV/main/img/bg%20K%2B.png",K+
 http://rr.dens.tv/h/h08/index2.m3u8
